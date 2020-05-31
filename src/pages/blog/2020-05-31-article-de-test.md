@@ -10,4 +10,6 @@ tags:
   - test
   - open-source
 ---
+![](/img/mojave-dark.jpg "mojave")
+
 IPhone android client non-disclosure agreement supply chain startup buzz crowdfunding. A/B testing stock stealth beta angel investor gen-z direct mailing handshake research & development infographic strategy infrastructure.
